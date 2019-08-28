@@ -1,0 +1,13 @@
+{
+    "name": "quero_conferencia",
+    "version": "1.0.0",
+    "description": "Teste técnico - Quero Educação",
+    "main": "index.js",
+    "author": "Rafael Moris",
+    "dependencies": {
+        "mocha": "^6.2.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
